@@ -1,0 +1,21 @@
+{
+  "name": "simple-agnostic-router",
+  "version": "1.0.0",
+  "description": "Simple agnostic hash/HTML5 router.",
+  "main": "index.js",
+  "scripts": {
+	
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Apyr/simple-agnostic-router.git"
+  },
+  "keywords": [
+    "router"
+  ],
+  "dependencies": {
+    "define-event": "*"
+  },
+  "author": "Kakotkin Alexei",
+  "license": "ISC"
+}
